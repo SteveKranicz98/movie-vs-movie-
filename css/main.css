@@ -1,0 +1,45 @@
+@import url('reset.css');
+
+#outter-wrapper{
+ display:flex;
+flex-flow:row wrap;
+width: 1200px;
+height: 800px;
+margin: 0 auto;
+border:1px solid black;
+  padding: 10px;
+
+}
+#vs{
+ width:200;
+  height:200px;
+  border:1px solid black;
+  margin:auto;
+   padding: 10px;
+  
+}
+
+.movie-poster{
+  width:400px;
+  height:600px;
+  border:1px solid black;
+  
+  
+}
+
+#random-btn{
+  background-color:green;
+  width:200px;
+  height:50px;
+  align:center;
+  border-radius:20px;
+  color: white;
+  text-transfrom: uppercase;
+  text-align:center;
+  line-height: 50x;
+  fomt-family: helvetica;
+  font-size: 25px;
+  margin:auto; 
+  box-shadow: 2px 15px 20px #100000
+ 
+}
